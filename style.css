@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    text-align: center
+}
+
+img {
+    max-width: 150px;
+    height: 150;
+    border: 100%;
+}
+div
+{
+    border-radius: 30%;
+    border-color: darkgray;
+    border-width: thick;
+}
